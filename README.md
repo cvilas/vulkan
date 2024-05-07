@@ -7,6 +7,7 @@ Vulkan experiments
 - [Vulkan Tutorial](https://vulkan-tutorial.com/)
 - [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 - [Vulkan Guide](https://vkguide.dev/)
+- [GLFW docs](https://www.glfw.org/docs/latest/index.html)
 
 ## Setup
 
