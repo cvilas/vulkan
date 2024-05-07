@@ -16,3 +16,7 @@ Vulkan experiments
 sudo apt install vulkan-tools libvulkan-dev vulkan-validationlayers spirv-tools libglfw3-dev libglm-dev glslc
 ```
 - Run `vkcube` to confirm vulkan tools are set up
+- Configure and build
+```
+mkdir build && cmake .. && make
+```
